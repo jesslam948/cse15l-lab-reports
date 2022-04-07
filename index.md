@@ -1,11 +1,16 @@
 Hello! This is Jessica Lam's sample CSE 15L Lab Report Page!
 
 *Italic*
+
 **Bold**
+
 # Heading 1
 ## Heading 2
-[Link to my personal site](jesslam948.github.io)
+
+[Link to my personal site](https://jesslam948.github.io/)
+
 ![Octocat](https://avatars.githubusercontent.com/u/583231?v=4)
+
 > Blockquote
 
 * List item 1
@@ -18,6 +23,7 @@ Hello! This is Jessica Lam's sample CSE 15L Lab Report Page!
 ---
 
 some `code`
+
 ```
 # code block
 print('Hello World!')
