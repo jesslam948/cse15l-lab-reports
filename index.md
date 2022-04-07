@@ -31,4 +31,4 @@ print('Hello World!')
 
 ## List of Lab Reports
 * [Lab Report 1 - style 1](lab-report-1-week-2.html)
-* [Lab Report 1 - style 2](https://<your-username>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+* [Lab Report 1 - style 2](https://jesslam948.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
